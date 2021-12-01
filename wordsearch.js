@@ -42,5 +42,4 @@ console.log(
   )
 );
 
-
 module.exports = wordSearch
